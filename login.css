@@ -1,0 +1,46 @@
+html{
+    background-color: blanchedalmond;
+}
+.container-form {
+    width: 800px;
+    height: 580px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-login {
+   width: 400px;
+   height: 580px;
+   background-color: white;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: space-around;
+}
+.password {
+    width: 243px;
+} 
+.login-password__input{
+    width: 280px;
+}
+.login-background {
+    width: 400px;
+    height: 580px;
+    background-image:url(361432408_2259568884431608_3004882639281313993_n.jpg) ;
+    background-size: cover;
+}
+.logo-bg {
+    width: 200px;
+}
+.error-user {
+    display: none;
+}
+.login-user-name__input {
+    width: 280px;
+}
+.user-name {
+    width: 243px;
+}
